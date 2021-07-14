@@ -1,79 +1,105 @@
-strattonbuidlmont.eth
-0x441F104A639E12bb534A94B7F426651131CAe4Fa
+BUIDL Baker Cameron Blaise
+https://www.youtube.com/channel/UCHSPc9odIIpNVEtGwG6xYKQ
 
-Emblem Vault
-https://emblem.finance/nft?id=304832
-0xAf8cb968a79928507BDc76DC117DfE7fc093d9ba  (ETH)
-1Bu33kBEqiyorLzgz8gvcakV3SWQD5E55K  (BTC)
+Twitter
+@theBUIDLbaker
 
-Linkedin
-https://www.linkedin.com/in/strattonbuidlmont/
-
-Fiver
-https://www.fiverr.com/share/v3QoVN
+Fiverr gigs
+https://www.fiverr.com/buidlbaker?public_mode=true
 
 Etsy
-https://www.etsy.com/listing/989378316/stratton-buidlmont?ref=shop_home_active_1
+https://www.etsy.com/people/ozsjkidu20bosweb?ref=hdr_user_menu-profile&expanded_profile=1
 
-Telegram
-https://t.me/StrattonBuidlmont
+Patreon
+https://www.patreon.com/strattonbuidlmont
+
+Patreon
+https://gofund.me/00f5af5f
+
+theBUIDLbooty
+https://onlyfans.com/thebuidlbaker
 
 Facebook
 https://www.facebook.com/cameron.blaise.9/
 
-Pinterest
-https://www.pinterest.com/thebuidlbaker/items-vaults/
-
-Instagram
-https://www.instagram.com/cameron.blaise.9/
-
 Reddit
 https://www.reddit.com/user/StrattonBuidlmont
 
-Giphy
-https://giphy.com/channel/cameronblaise
+Tumblr
+https://www.tumblr.com/blog/view/cameronblaise
+
+Pinterest
+https://pin.it/RoHzq1I
+
+Github
+https://github.com/theBUIDLbaker
 
 Rarible
 https://rarible.com/items?tab=collectibles
 
 Opensea
-https://opensea.io/accounts/BUIDLBakerCameronBlaise
+https://opensea.io/0x441f104a639e12bb534a94b7f426651131cae4fa
 
-Foundation
-https://foundation.app/buidlbaker
+Ethereum Account
+https://etherscan.io/address/0x441f104a639e12bb534a94b7f426651131cae4fa
 
-Uniswap
-https://info.uniswap.org/account/0x441F104A639E12bb534A94B7F426651131CAe4Fa
+VISOR V3
+https://opensea.io/assets/0xae03233307865623aaef76da9ade669b86e6f20a/196377933932221710295619180356914560080799365333/
 
-Xbox
-https://account.xbox.com/en-us/Profile?xr=socialtwistnav
+Cargo.build Showcase
+https://app.cargo.build/creator/0x441F104A639E12bb534A94B7F426651131CAe4Fa/showcases
 
-nft20 ALCHEMIST CRUCIBLE
-https://nft20.io/asset/0x8e9a37af729a101cf22f7450abbaa24de100a251
+Zora
+https://zora.co/thebuidlbaker
 
-nft20 NFY
-https://nft20.io/asset/0xf904754d4b359b9e7833bda3d183a3ebddeece12
+Enjin
+https://cloud.enjin.io/platform/16898/general
+https://enjinx.io/eth/project/c98e40f5-afab-4ca7-804e-24530607b256
 
-DeFi Gods 
+Mother Ship
+https://emblem.finance/nft?id=429137
+
+Bakerswap
+https://www.bakeryswap.org/#/exchange/bsc-artworks/artworkInfo/4715/1/1
+
+Portion
+https://portion.io/app.html#exchange?ID=QmcxncUDiYaQ5WTDULAMtUK4hZdVzXZkPVFD7113tvybDz
+
+Nifty Ink
+https://nifty.ink/holdings/0x441F104A639E12bb534A94B7F426651131CAe4Fa
+
+NFT Yard
+https://nftyard.io/accounts/0x441F104A639E12bb534A94B7F426651131CAe4Fa
+
+Non-Fungible Matic V2 V2
+https://opensea.io/assets/matic/0x36a8377e2bb3ec7d6b0f1675e243e542eb6a4764/2256
+
+ENS Account
+https://app.ens.domains/address/0x441F104A639E12bb534A94B7F426651131CAe4Fa
+
+Nifty Gateway
+https://niftygateway.com/profile/thebuidlbaker
+
+Mintable
+https://mintable.app/u/buidlbaker
+
+Enzyme Finance
+https://app.enzyme.finance/vault/0x40fe6148de1c8e871acf1d176c274aef804a1df8/overview
+
+Hive OS
+https://the.hiveos.farm/farms/1045853/
+
+Solarians
+https://solarians.click/
+
+Solana Account Activity
+https://explorer.solana.com/address/5SokSU6vQW59k6ecYAdu1LFyi2kQzkjp17M9PE1wBzBV
+
+Solana Wallet
+5SokSU6vQW59k6ecYAdu1LFyi2kQzkjp17M9PE1wBzBV
+
+Itemized COVAL Vault Index (⭐️ ICV ⭐️)
+https://covenants.eth.link/#/bazaar/dapp/0xcbffDaaCE85ec3d1c41374140feF962049184615
+
+DeFi Gods (👾🚁DFG🚁👾)
 https://covenants.eth.link/#/bazaar/dapp/0x2f19D0Cfe497b5A588F7F25e918cE4dF414Ecf38
-
-DeFi Selection (DeFi)
-https://covenants.eth.link/#/bazaar/dapp/0xc63CAAc1ad9954AD3bC8247Ab33fF233b0DD0FcD
-
-Stratton Buidlmont Index Pimp Life
-https://covenants.eth.link/#/bazaar/dapp/0x039413fa241B35033f00D2654C75bf2a77DB54f9
-
-Decentralized Itemized Flexible Organizations DiFO
-https://covenants.eth.link/#/bazaar/dapp/0x4877d6B5FA2cB0460c1F7072df844d2A2F500AD6
-
-Twitch
-https://www.twitch.tv/strattonbuidlmont
-
-Kraken
-https://www.kraken.com/
-
-Coinbase
-https://www.coinbase.com/for-you
-
-YubiKeys
-https://www.yubico.com/products/
